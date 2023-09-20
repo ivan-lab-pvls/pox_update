@@ -1,0 +1,41 @@
+name: pockex
+description: A new Flutter project.
+
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.19.6 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  flutter_native_splash:
+  google_fonts: ^4.0.4
+  rx_shared_preferences: ^3.0.0
+  dio:
+  http:
+  in_app_review:
+  intl: 
+  flutter_svg: ^2.0.5
+  onesignal_flutter: ^3.5.0
+  webview_flutter: ^4.2.2
+  provider: ^6.0.5
+  youtube_player_flutter: ^8.1.2
+  modal_bottom_sheet: ^3.0.0-pre
+  font_awesome_flutter:
+  flutter_inappwebview: ^5.7.2+3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+
+  uses-material-design: true
+
+
